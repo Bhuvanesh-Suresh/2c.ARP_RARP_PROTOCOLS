@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+### Name: Bhuvanesh S R
+### Reg No: 212223240017
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
